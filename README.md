@@ -1,5 +1,5 @@
 Overview
-This project is an online tutorial homepage designed to provide users with information about the services offered by "One Tutor". The homepage features a clean and modern design, utilizing HTML and CSS to create an engaging user experience.
+This project is an online tutorial homepage designed to provide users with information about the services". The homepage features a clean and modern design, utilizing HTML and CSS to create an engaging user experience.
 
 File Structure
 index.html: The main HTML file that contains the structure and content of the homepage.
